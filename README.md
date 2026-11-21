@@ -1,5 +1,3 @@
-[README (2).md](https://github.com/user-attachments/files/35195663/README.2.md)
-
 # CPR Coach: smart glasses that coach chest compressions
 
 Software for an MSTI capstone at the University of Washington's Global Innovation Exchange (GIX), sponsored by MultiCare. Smart glasses watch someone practising CPR (cardiopulmonary resuscitation) on a manikin and coach them live: faster, slower, push harder, ease off, move your hands.
