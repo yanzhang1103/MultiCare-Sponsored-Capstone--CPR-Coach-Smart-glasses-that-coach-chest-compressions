@@ -74,7 +74,6 @@ Print the chest marker with `python make_marker_sheet.py` (or use `chest_marker.
 | Fatigue alert | Fired in all sessions that faded 25% or more; silent in all steady ones |
 | Chest marker | Found at every distance, angle and light level tried on generated frames; lost with heavy motion blur |
 
-![Depth accuracy against person-to-person variation](docs/images/depth_calibration.png)
 
 ## Repository layout
 
